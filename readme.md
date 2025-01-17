@@ -52,7 +52,7 @@ The schema includes the following tables:
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://platform.alem.school/git/nmedeube/frappuccino.git
+   git clone https://github.com/eraga0423/coffee-shop-2.0
    ```
 2. Create file .env
 
